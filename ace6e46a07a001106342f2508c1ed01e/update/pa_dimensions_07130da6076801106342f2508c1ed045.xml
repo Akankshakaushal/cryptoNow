@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="sys_choice">name=x_350882_cryptonow_crypto_listings^element=name<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="x_350882_cryptonow_crypto_listings"/>
+            <item endquery="false" field="element" goto="false" newquery="false" operator="=" or="false" value="name"/>
+        </conditions>
+        <description/>
+        <empty_value/>
+        <facts_table>sys_choice</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>Crypto Name</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:34:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>07130da6076801106342f2508c1ed045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crypto Name</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>pa_dimensions_07130da6076801106342f2508c1ed045</sys_update_name>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:34:01</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=07130da6076801106342f2508c1ed045"/>
+</record_update>

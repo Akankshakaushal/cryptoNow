@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="DELETE">
+        <active>true</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>scores_text</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description/>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>Historic Crypto Listings</name>
+        <offset/>
+        <offset_type/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2021-12-23 15:36:34</run_start>
+        <run_time>1969-12-31 18:30:00</run_time>
+        <run_type>on_demand</run_type>
+        <score_fixed_end>00000000</score_fixed_end>
+        <score_fixed_start>00000000</score_fixed_start>
+        <score_operator>relative</score_operator>
+        <score_relative_end>1</score_relative_end>
+        <score_relative_end_interval>days</score_relative_end_interval>
+        <score_relative_start>1</score_relative_start>
+        <score_relative_start_interval>days</score_relative_start_interval>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:37:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3604812a076801106342f2508c1ed08a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Historic Crypto Listings</sys_name>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>sysauto_pa_3604812a076801106342f2508c1ed08a</sys_update_name>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:37:12</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="DELETE" query="documentkey=3604812a076801106342f2508c1ed08a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</application>
+        <file_path/>
+        <instance_id>80557914dbba845452dd2f17d49619c6</instance_id>
+        <instance_name>dev98927</instance_name>
+        <name>sysauto_pa_3604812a076801106342f2508c1ed08a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa"><sysauto_pa action="INSERT_OR_UPDATE"><active>true</active><benchmarking>false</benchmarking><business_calendar/><collect>scores_text</collect><condition/><conditional>false</conditional><description/><entered_time/><kill_job>false</kill_job><name>Historic Crypto Listings</name><offset/><offset_type/><run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as><run_as_tz/><run_dayofmonth>1</run_dayofmonth><run_dayofweek>1</run_dayofweek><run_period/><run_start>2021-12-23 15:36:34</run_start><run_time>1969-12-31 18:30:00</run_time><run_type>on_demand</run_type><score_fixed_end>00000000</score_fixed_end><score_fixed_start>00000000</score_fixed_start><score_operator>relative</score_operator><score_relative_end>1</score_relative_end><score_relative_end_interval>days</score_relative_end_interval><score_relative_start>1</score_relative_start><score_relative_start_interval>days</score_relative_start_interval><sys_class_name>sysauto_pa</sys_class_name><sys_created_by>akanksha.kaushal</sys_created_by><sys_created_on>2021-12-23 15:37:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3604812a076801106342f2508c1ed08a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Historic Crypto Listings</sys_name><sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package><sys_policy/><sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope><sys_update_name>sysauto_pa_3604812a076801106342f2508c1ed08a</sys_update_name><sys_updated_by>akanksha.kaushal</sys_updated_by><sys_updated_on>2021-12-23 15:37:12</sys_updated_on><time_zone/><upgrade_safe>false</upgrade_safe></sysauto_pa><sys_translated_text action="delete_multiple" query="documentkey=3604812a076801106342f2508c1ed08a"/></record_update>]]></payload>
+        <payload_hash>1610762423</payload_hash>
+        <record_name>Historic Crypto Listings</record_name>
+        <reverted_from/>
+        <source>60e66cea07a401106342f2508c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:37:12</sys_created_on>
+        <sys_id>043409e6076801106342f2508c1ed0b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de7f06a4a0000001</sys_recorded_at>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:37:12</sys_updated_on>
+        <type>Scheduled Data Collection</type>
+        <update_guid>c83409e6eb680110e9a776e9b60d3eb7</update_guid>
+        <update_guid_history>c83409e6eb680110e9a776e9b60d3eb7:1610762423,0324452a75680110da0ef2f50f98a386:-1659872187</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:49:29</sys_created_on>
+        <sys_db_object display_value="" name="sysauto_pa">sysauto_pa</sys_db_object>
+        <sys_id>00b36f88265e487480ab8709174d3939</sys_id>
+        <sys_metadata>3604812a076801106342f2508c1ed08a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic Crypto Listings</sys_name>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_scope_delete display_value="">21d249691fb345a0bb91feec95798400</sys_scope_delete>
+        <sys_update_name>sysauto_pa_3604812a076801106342f2508c1ed08a</sys_update_name>
+        <sys_update_version display_value="sysauto_pa_3604812a076801106342f2508c1ed08a">043409e6076801106342f2508c1ed0b8</sys_update_version>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:49:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

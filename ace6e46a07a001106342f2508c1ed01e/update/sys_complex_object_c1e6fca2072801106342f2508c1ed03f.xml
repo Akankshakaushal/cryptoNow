@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD01e6fca27c280110a4199e02bf2af03f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ace6e46a07a001106342f2508c1ed01e</scope_name>
+        <serialized_content>{"FlowDesigner:FD01e6fca27c280110a4199e02bf2af03f":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD01e6fca27c280110a4199e02bf2af03f.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"f34498e2-1f25-4a5a-94de-3793675b703c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD01e6fca27c280110a4199e02bf2af03f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 14:39:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c1e6fca2072801106342f2508c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD01e6fca27c280110a4199e02bf2af03f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>sys_complex_object_c1e6fca2072801106342f2508c1ed03f</sys_update_name>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 14:39:06</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

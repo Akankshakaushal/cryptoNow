@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Historic Crypto Listings - Crypto Listings</display>
+        <indicator display_value="Crypto Listings">cb1b30a6072801106342f2508c1ed01b</indicator>
+        <job display_value="Historic Crypto Listings">3604812a076801106342f2508c1ed08a</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:38:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d740d2a076801106342f2508c1ed010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crypto Listings.Historic Crypto Listings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>pa_job_indicators_9d740d2a076801106342f2508c1ed010</sys_update_name>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:38:22</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</application>
+        <file_path/>
+        <instance_id>80557914dbba845452dd2f17d49619c6</instance_id>
+        <instance_name>dev98927</instance_name>
+        <name>pa_job_indicators_9d740d2a076801106342f2508c1ed010</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>Historic Crypto Listings - Crypto Listings</display><indicator display_value="Crypto Listings">cb1b30a6072801106342f2508c1ed01b</indicator><job display_value="Historic Crypto Listings">3604812a076801106342f2508c1ed08a</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>akanksha.kaushal</sys_created_by><sys_created_on>2021-12-23 15:38:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d740d2a076801106342f2508c1ed010</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Crypto Listings.Historic Crypto Listings</sys_name><sys_overrides/><sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package><sys_policy/><sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope><sys_update_name>pa_job_indicators_9d740d2a076801106342f2508c1ed010</sys_update_name><sys_updated_by>akanksha.kaushal</sys_updated_by><sys_updated_on>2021-12-23 15:38:22</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1968289506</payload_hash>
+        <record_name>Historic Crypto Listings - Crypto Listings</record_name>
+        <reverted_from/>
+        <source>60e66cea07a401106342f2508c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:38:22</sys_created_on>
+        <sys_id>91740d2a076801106342f2508c1ed018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de7f17c810000001</sys_recorded_at>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:38:22</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>99740d2ac0680110aa56d78a0e1ab117</update_guid>
+        <update_guid_history>99740d2ac0680110aa56d78a0e1ab117:1968289506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=" - Crypto Listings">cc07456e076801106342f2508c1ed0aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2021-12-23 15:49:29</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>977edbecea124226b46da8616fd61dd9</sys_id>
+        <sys_metadata>9d740d2a076801106342f2508c1ed010</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crypto Listings.Historic Crypto Listings</sys_name>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_scope_delete display_value="">21d249691fb345a0bb91feec95798400</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_9d740d2a076801106342f2508c1ed010</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_9d740d2a076801106342f2508c1ed010">91740d2a076801106342f2508c1ed018</sys_update_version>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2021-12-23 15:49:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

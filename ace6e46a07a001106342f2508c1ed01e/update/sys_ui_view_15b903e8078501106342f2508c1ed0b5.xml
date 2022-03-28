@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>crypto_workspace</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>akanksha.kaushal</sys_created_by>
+        <sys_created_on>2022-01-11 16:44:23</sys_created_on>
+        <sys_id>15b903e8078501106342f2508c1ed0b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crypto Workspace</sys_name>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>sys_ui_view_15b903e8078501106342f2508c1ed0b5</sys_update_name>
+        <sys_updated_by>akanksha.kaushal</sys_updated_by>
+        <sys_updated_on>2022-01-11 16:44:23</sys_updated_on>
+        <title>Crypto Workspace</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

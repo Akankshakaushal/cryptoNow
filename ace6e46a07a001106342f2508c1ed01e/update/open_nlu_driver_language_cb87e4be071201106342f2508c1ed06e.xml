@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="open_nlu_driver_language">
+    <open_nlu_driver_language action="INSERT_OR_UPDATE">
+        <code>pt</code>
+        <driver display_value="ServiceNow NLU">64c023c17300330021a044764df6a70e</driver>
+        <driver_codes>pt</driver_codes>
+        <language>Portuguese</language>
+        <sys_class_name>open_nlu_driver_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 08:00:25</sys_created_on>
+        <sys_id>cb87e4be071201106342f2508c1ed06e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portuguese</sys_name>
+        <sys_package display_value="CryptoNow" source="x_350882_cryptonow">ace6e46a07a001106342f2508c1ed01e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CryptoNow">ace6e46a07a001106342f2508c1ed01e</sys_scope>
+        <sys_update_name>open_nlu_driver_language_cb87e4be071201106342f2508c1ed06e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 08:00:25</sys_updated_on>
+    </open_nlu_driver_language>
+</record_update>
